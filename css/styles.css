@@ -1,0 +1,12 @@
+th{
+    text-align: center;
+}
+.container{
+    padding-top: 80px;
+}
+
+@media (max-width: 768px) {
+    #button-row{
+        margin-top: 10px;
+    }    
+}
